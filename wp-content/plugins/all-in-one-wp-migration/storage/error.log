@@ -1,0 +1,618 @@
+Mar 22 2023 15:15:43
+{"Number":8192,"Message":"DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\functions.php","Line":316}
+
+Mar 22 2023 15:15:43
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:15:46
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:15:46
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:15:48
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:15:50
+{"Number":8192,"Message":"base64_encode(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\model\\export\\class-ai1wm-export-config.php","Line":171}
+
+Mar 22 2023 15:15:50
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:15:51
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:15:52
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:15:53
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:15:55
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:15:57
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:16:00
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:16:05
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:16:10
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:16:15
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:16:19
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:16:24
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:16:30
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:16:32
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:16:35
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:16:42
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:16:45
+{"Number":8192,"Message":"DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\functions.php","Line":316}
+
+Mar 22 2023 15:16:45
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:16:47
+{"Number":8192,"Message":"DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\functions.php","Line":316}
+
+Mar 22 2023 15:16:47
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:16:50
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:16:52
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:16:52
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:16:57
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:17:02
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:17:04
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:17:06
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:17:06
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:17:11
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:17:16
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:17:17
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:17:21
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:17:27
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:17:29
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:17:32
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:17:37
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:17:41
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:17:42
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:17:46
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:17:51
+{"Number":8192,"Message":"DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\functions.php","Line":316}
+
+Mar 22 2023 15:17:51
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:17:53
+{"Number":8192,"Message":"DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\functions.php","Line":316}
+
+Mar 22 2023 15:17:53
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:17:56
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:18:01
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:18:05
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:18:06
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:18:11
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:18:16
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:18:17
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:18:21
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:18:26
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:18:29
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:18:31
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:18:36
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:18:41
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:18:41
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:18:46
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:18:51
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:18:53
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:18:56
+{"Number":8192,"Message":"DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\functions.php","Line":316}
+
+Mar 22 2023 15:18:56
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:19:01
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:19:04
+{"Number":8192,"Message":"DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\functions.php","Line":316}
+
+Mar 22 2023 15:19:04
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:19:05
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:19:10
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:19:15
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:19:16
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:19:20
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:19:28
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:19:28
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:19:32
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:19:37
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:19:41
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:19:42
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:19:47
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:19:52
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:19:53
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:19:57
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:20:02
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:20:05
+{"Number":8192,"Message":"DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\functions.php","Line":316}
+
+Mar 22 2023 15:20:05
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:20:06
+{"Number":8192,"Message":"DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\functions.php","Line":316}
+
+Mar 22 2023 15:20:06
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:20:11
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:20:16
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:20:17
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:20:21
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:20:27
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:20:28
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:20:32
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:20:36
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:20:40
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:20:41
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:20:46
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:20:51
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:20:52
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:20:56
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:21:01
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:21:04
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:21:06
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:21:14
+{"Number":8192,"Message":"DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\functions.php","Line":316}
+
+Mar 22 2023 15:21:14
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:21:15
+{"Number":8192,"Message":"DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\functions.php","Line":316}
+
+Mar 22 2023 15:21:15
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:21:18
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:21:23
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:21:27
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:21:29
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:21:34
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:21:39
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:21:39
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:21:44
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:21:49
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:21:51
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:21:55
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:21:59
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:22:03
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:22:04
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:22:09
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:22:14
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:22:15
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:22:19
+{"Number":8192,"Message":"DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\functions.php","Line":316}
+
+Mar 22 2023 15:22:19
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:22:24
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:22:27
+{"Number":8192,"Message":"DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\functions.php","Line":316}
+
+Mar 22 2023 15:22:27
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:22:29
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:22:34
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:22:40
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:22:42
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:22:47
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:22:52
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:22:53
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:22:57
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:23:01
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:23:06
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:23:09
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:23:14
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:23:19
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:23:19
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:23:24
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:23:30
+{"Number":8192,"Message":"DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\functions.php","Line":316}
+
+Mar 22 2023 15:23:30
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:23:31
+{"Number":8192,"Message":"DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\functions.php","Line":316}
+
+Mar 22 2023 15:23:31
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:23:34
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:23:39
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:23:43
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:23:44
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:23:49
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:23:54
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:23:55
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:23:58
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:24:03
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:24:06
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:24:08
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:24:13
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:24:18
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:24:18
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:24:23
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:24:29
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:24:30
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:24:34
+{"Number":8192,"Message":"DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\functions.php","Line":316}
+
+Mar 22 2023 15:24:34
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:24:38
+{"Number":8192,"Message":"DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\functions.php","Line":316}
+
+Mar 22 2023 15:24:38
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:24:39
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:24:44
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:24:50
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:24:50
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:24:55
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:24:59
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:25:02
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:25:05
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:25:10
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:25:14
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:25:14
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:25:19
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:25:24
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:25:26
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:25:29
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:25:34
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:25:39
+{"Number":8192,"Message":"DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\functions.php","Line":316}
+
+Mar 22 2023 15:25:39
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:25:39
+{"Number":8192,"Message":"DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\functions.php","Line":316}
+
+Mar 22 2023 15:25:39
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:25:44
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:25:44
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:25:49
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:25:56
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:25:56
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:26:04
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:26:05
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:26:13
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:26:13
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:26:15
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:26:17
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
+Mar 22 2023 15:26:18
+{"type":8192,"message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\cartflows\\libraries\\action-scheduler\\classes\\ActionScheduler_DateTime.php","line":27}
+
